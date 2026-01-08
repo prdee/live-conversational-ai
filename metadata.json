@@ -1,0 +1,7 @@
+{
+  "name": "Live Conversation AI",
+  "description": "A low-latency, real-time AI conversation and mock interview platform with a reactive digital avatar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
